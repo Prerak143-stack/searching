@@ -1,5 +1,4 @@
-# I am Prerak Patel and I have designed this program by myself and I haven't share
-# my program with anyone. My professor's name is Tiffany, Anotopoloski
+
 
 myList = input("Please enter the list from where you want to seach for : ")
 your_search = input("Please enter the word you want to search for : ")
